@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "VOXGLOW",
-  "latestVersion": "0.1.0",
+  "latestVersion": "0.1.1",
   "minimumSupportedVersion": "0.1.0",
-  "releaseNotes": "VoxGlow 0.1.0 (first beta): one-window vocal repair and glow. CLEAN removes clipping, crackle, clicks, noise, room tail and pops; SMOOTH tames harsh resonances; BODY adds warmth or cuts mud; FORWARD brings the vocal to the front; AIR adds sparkle and rebuilds missing highs on phone and band-limited vocals. Press LEARN while the vocal plays. Fully close the DAW before installing.",
+  "releaseNotes": "VoxGlow 0.1.1: the DHC Studio artist logo now appears in the header (click it to open the Spotify artist page), and the User Guide is updated to match. Audio processing is unchanged from 0.1.0. Fully close the DAW before installing.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/VOXGLOW-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/VOXGLOW/releases"
 }

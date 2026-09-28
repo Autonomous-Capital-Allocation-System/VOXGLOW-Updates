@@ -1,5 +1,10 @@
 # VoxGlow release notes
 
+## 0.1.1 - DHC Studio artist signature
+
+- The DHC Studio logo now appears in the VoxGlow header; click it to open the Spotify artist page.
+- User Guide updated (0.1.1). Audio processing unchanged from 0.1.0.
+
 ## 0.1.0 - First beta
 
 - One-window vocal repair and glow: LEARN, CLEAN, SMOOTH, BODY, FORWARD, AIR, MIX, OUTPUT.
