@@ -1,5 +1,11 @@
 # VoxGlow release notes
 
+## 0.1.2 - Windows installer fix
+
+- Fixes Windows Setup error 183 ("Cannot create a file when that file already exists") when an older,
+  hand-copied VoxGlow.vst3 file was present. Setup now removes it and installs normally.
+- The installer's welcome page reminds you to fully quit your DAW first.
+
 ## 0.1.1 - DHC Studio artist signature
 
 - The DHC Studio logo now appears in the VoxGlow header; click it to open the Spotify artist page.
